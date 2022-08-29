@@ -1,0 +1,16 @@
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\bin\Debug\4-多元練習3-刺青圖案.exe
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\bin\Debug\4-多元練習3-刺青圖案.pdb
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\bin\Debug\4-多元練習3-刺青圖案.xml
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.exe
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.xml
+C:\Users\yhwan\Desktop\==2021-科友技高-資訊科技\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\bin\Debug\4-多元練習3-刺青圖案.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\bin\Debug\4-多元練習3-刺青圖案.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\bin\Debug\4-多元練習3-刺青圖案.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習3-刺青圖案\4-多元練習3-刺青圖案\obj\x86\Debug\4-多元練習3-刺青圖案.vbproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\bin\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\bin\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\bin\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\obj\x86\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\obj\x86\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\obj\x86\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-7-古代十大美人的網紅之爭\ch4-7-實例演練-古代十大美人的網紅之爭\obj\x86\Debug\ch4-7-實例演練-古代十大美人的網紅之爭.pdb

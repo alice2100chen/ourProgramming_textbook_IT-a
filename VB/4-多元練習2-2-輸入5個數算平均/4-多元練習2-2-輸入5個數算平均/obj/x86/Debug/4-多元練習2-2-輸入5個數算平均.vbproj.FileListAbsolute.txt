@@ -1,0 +1,8 @@
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\bin\Debug\4-多元練習2-2-輸入5個數算平均.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\bin\Debug\4-多元練習2-2-輸入5個數算平均.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\bin\Debug\4-多元練習2-2-輸入5個數算平均.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\obj\x86\Debug\4-多元練習2-2-輸入5個數算平均.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\obj\x86\Debug\4-多元練習2-2-輸入5個數算平均.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\obj\x86\Debug\4-多元練習2-2-輸入5個數算平均.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-2-輸入5個數算平均\4-多元練習2-2-輸入5個數算平均\obj\x86\Debug\4-多元練習2-2-輸入5個數算平均.pdb

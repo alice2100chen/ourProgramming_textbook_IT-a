@@ -1,0 +1,8 @@
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\bin\Debug\ch4-1-年份換算.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\bin\Debug\ch4-1-年份換算.pdb
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\bin\Debug\ch4-1-年份換算.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\obj\x86\Debug\ch4-1-年份換算.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\obj\x86\Debug\ch4-1-年份換算.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\obj\x86\Debug\ch4-1-年份換算.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-1-年份換算\ch4-1-年份換算\obj\x86\Debug\ch4-1-年份換算.pdb

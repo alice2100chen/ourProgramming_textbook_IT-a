@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4-11-循序搜尋法-找50", "4-11-循序搜尋法-找50\4-11-循序搜尋法-找50.vbproj", "{E55FC463-D862-43C5-BB1D-FA23CA42AF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55FC463-D862-43C5-BB1D-FA23CA42AF61}.Debug|x86.ActiveCfg = Debug|x86
+		{E55FC463-D862-43C5-BB1D-FA23CA42AF61}.Debug|x86.Build.0 = Debug|x86
+		{E55FC463-D862-43C5-BB1D-FA23CA42AF61}.Release|x86.ActiveCfg = Release|x86
+		{E55FC463-D862-43C5-BB1D-FA23CA42AF61}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

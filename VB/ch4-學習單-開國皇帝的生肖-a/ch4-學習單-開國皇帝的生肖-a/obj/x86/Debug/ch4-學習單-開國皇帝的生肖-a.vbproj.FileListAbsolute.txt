@@ -1,0 +1,8 @@
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\bin\Debug\ch4-學習單-開國皇帝的生肖-a.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\bin\Debug\ch4-學習單-開國皇帝的生肖-a.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\bin\Debug\ch4-學習單-開國皇帝的生肖-a.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\obj\x86\Debug\ch4-學習單-開國皇帝的生肖-a.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\obj\x86\Debug\ch4-學習單-開國皇帝的生肖-a.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\obj\x86\Debug\ch4-學習單-開國皇帝的生肖-a.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\ch4-學習單-開國皇帝的生肖-a\ch4-學習單-開國皇帝的生肖-a\obj\x86\Debug\ch4-學習單-開國皇帝的生肖-a.pdb

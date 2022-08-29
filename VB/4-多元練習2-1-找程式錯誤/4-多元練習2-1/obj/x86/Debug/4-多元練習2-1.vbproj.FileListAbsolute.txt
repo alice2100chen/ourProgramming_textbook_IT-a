@@ -1,0 +1,16 @@
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\bin\Debug\4-多元練習2-1.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\bin\Debug\4-多元練習2-1.pdb
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\bin\Debug\4-多元練習2-1.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\4-多元練習2-1\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\bin\Debug\4-多元練習2-1.exe
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\bin\Debug\4-多元練習2-1.pdb
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\bin\Debug\4-多元練習2-1.xml
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\=技高-改vb\技高改vb-程式碼\4-多元練習2-1-找程式錯誤\4-多元練習2-1\obj\x86\Debug\4-多元練習2-1.vbproj.GenerateResource.Cache

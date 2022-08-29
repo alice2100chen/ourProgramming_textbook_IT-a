@@ -1,0 +1,8 @@
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\bin\Debug\4-7-選擇結構IF-ElseIf-Else用法.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\bin\Debug\4-7-選擇結構IF-ElseIf-Else用法.pdb
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\bin\Debug\4-7-選擇結構IF-ElseIf-Else用法.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\obj\x86\Debug\4-7-選擇結構IF-ElseIf-Else用法.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\obj\x86\Debug\4-7-選擇結構IF-ElseIf-Else用法.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\obj\x86\Debug\4-7-選擇結構IF-ElseIf-Else用法.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\4-7-選擇結構IF-ElseIf-Else用法\4-7-選擇結構IF-ElseIf-Else用法\obj\x86\Debug\4-7-選擇結構IF-ElseIf-Else用法.pdb

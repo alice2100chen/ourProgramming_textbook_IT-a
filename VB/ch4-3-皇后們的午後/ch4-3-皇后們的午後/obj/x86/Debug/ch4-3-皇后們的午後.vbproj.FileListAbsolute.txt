@@ -1,0 +1,8 @@
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\bin\Debug\ch4-3-皇后們的午後.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\bin\Debug\ch4-3-皇后們的午後.pdb
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\bin\Debug\ch4-3-皇后們的午後.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\obj\x86\Debug\ConsoleApplication2.Resources.resources
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\obj\x86\Debug\ch4-3-皇后們的午後.vbproj.GenerateResource.Cache
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\obj\x86\Debug\ch4-3-皇后們的午後.exe
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\obj\x86\Debug\ch4-3-皇后們的午後.xml
+C:\Users\yhwan\Desktop\技高改vb-程式\ch4-3-皇后們的午後\ch4-3-皇后們的午後\obj\x86\Debug\ch4-3-皇后們的午後.pdb
